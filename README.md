@@ -56,7 +56,7 @@ const developer = {
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snowjug&theme=tokyonight)
 
 </div>
----
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -64,7 +64,7 @@ const developer = {
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=snowjug&theme=tokyo-night)
 
 </div>
----
+
 ## 💻 Tech Stack
 
 <div align="center">
@@ -94,15 +94,6 @@ const developer = {
 
 ---
 
-
-
----
-
-
-
-
-
----
 
 ## 🎯 Current Focus
 
