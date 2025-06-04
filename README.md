@@ -42,7 +42,20 @@ const developer = {
     funFact: "I debug with console.log() and I'm not ashamed! 🐛"
 };
 ```
+## 📊 GitHub Analytics
 
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=snowjug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowjug&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snowjug&theme=tokyonight)
+
+</div>
 ---
 
 ## 💻 Tech Stack
@@ -74,20 +87,7 @@ const developer = {
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=snowjug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowjug&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snowjug&theme=tokyonight)
-
-</div>
 
 ---
 
