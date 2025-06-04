@@ -57,7 +57,14 @@ const developer = {
 
 </div>
 ---
+## 📈 Contribution Graph
 
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=snowjug&theme=tokyo-night)
+
+</div>
+---
 ## 💻 Tech Stack
 
 <div align="center">
@@ -93,13 +100,7 @@ const developer = {
 
 
 
-## 📈 Contribution Graph
 
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=snowjug&theme=tokyo-night)
-
-</div>
 
 ---
 
