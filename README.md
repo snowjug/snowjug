@@ -21,7 +21,7 @@
 
 ```typescript
 const developer = {
-    name: "Atharv",
+    name: "Atharv Shukla",
     role: "Full Stack Developer",
     code: ["JavaScript", "TypeScript", "Python", "Go", "Rust"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
@@ -91,15 +91,7 @@ const developer = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=snowjug&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
