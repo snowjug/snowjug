@@ -125,14 +125,7 @@ const developer = {
 
 ---
 
-## 🌟 Featured Projects
 
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=snowjug&repo=awesome-project&theme=tokyonight)](https://github.com/snowjug/awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=snowjug&repo=another-project&theme=tokyonight)](https://github.com/snowjug/another-project)
-
-</div>
 
 ---
 
@@ -175,7 +168,7 @@ const developer = {
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/snowjug)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/snowjug)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/snowjug)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharv1324@gmail.com)
 
 </div>
 
@@ -211,22 +204,3 @@ const developer = {
 
 </div>
 
-<!-- Optional: Add some custom CSS for animations -->
-<style>
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  10% { transform: rotate(14deg); }
-  20% { transform: rotate(-8deg); }
-  30% { transform: rotate(14deg); }
-  40% { transform: rotate(-4deg); }
-  50% { transform: rotate(10deg); }
-  60% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-
-.wave {
-  animation: wave 2s infinite;
-  transform-origin: 70% 70%;
-  display: inline-block;
-}
-</style>
