@@ -10,7 +10,7 @@
   
 [![GitHub followers](https://img.shields.io/github/followers/snowjug?label=Follow&style=social)](https://github.com/snowjug)
 [![Twitter Follow](https://img.shields.io/twitter/follow/snowjug?style=social)](https://twitter.com/snowjug)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/snowjug)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharv2405)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
 </div>
