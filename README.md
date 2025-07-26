@@ -22,8 +22,8 @@
 ```typescript
 const developer = {
     name: "Atharv Shukla",
-    role: "Full Stack Developer",
-    code: ["JavaScript", "TypeScript", "Python", "Go", "Rust"],
+    role: "DevOps and Cloud Engineer",
+    code: ["JavaScript", "Java", "Python", "Go", "C"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         frontEnd: {
