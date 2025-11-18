@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Atharv]! atharvv.me
+# 👋 Hi there, I'm [Atharv]! [atharvv.me](https://atharvv.me/)
 
 <div align="center">
   
