@@ -61,7 +61,7 @@ const developer = {
 
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=snowjug&theme=tokyo-night&hide_border=true&area=true&custom_title=snowjug%27s%20Contribution%20Graph)](https://github.com/snowjug)
+![Contribution Graph](https://raw.githubusercontent.com/snowjug/snowjug/output/contribution-graph.svg)
 
 </div>
 
@@ -178,6 +178,8 @@ const developer = {
 
 <div align="center">
   
+<img src="https://raw.githubusercontent.com/snowjug/snowjug/main/assets/visitor-growth.svg" alt="Animated exponential visitor growth graph" width="640" /><br/>
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=snowjug&label=Profile+Views&color=64ffda&style=for-the-badge)
 
 </div>
@@ -198,16 +200,6 @@ const developer = {
 
 ---
 
-<div align="center">
-  
-### 🎉 Thanks for visiting! Let's build something amazing together! 🚀
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
-
----
-
 ## 🕸️ Let's Weave Something Together
 
 <div align="center">
@@ -217,5 +209,15 @@ const developer = {
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:64ffda&height=120&section=footer" width="100%" alt="footer wave" />
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🎉 Thanks for visiting! Let's build something amazing together! 🚀
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
