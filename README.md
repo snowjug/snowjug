@@ -61,7 +61,7 @@ const developer = {
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=snowjug&theme=tokyo-night)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=snowjug&theme=tokyo-night&hide_border=true&area=true&custom_title=snowjug%27s%20Contribution%20Graph)](https://github.com/snowjug)
 
 </div>
 
@@ -127,7 +127,7 @@ const developer = {
 
 <div align="center">
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/snowjug)
+[![Spotify](https://spotify-github-profile.kittinunf.com/api/view?uid=SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false)](https://open.spotify.com/user/SPOTIFY_USER_ID)
 
 </div>
 
@@ -174,7 +174,21 @@ const developer = {
 
 <div align="center">
   
-![Visitor Count](https://profile-counter.glitch.me/snowjug/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=snowjug&label=Profile+Views&color=64ffda&style=for-the-badge)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snowjug/snowjug/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snowjug/snowjug/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation eating my contribution graph" src="https://raw.githubusercontent.com/snowjug/snowjug/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
