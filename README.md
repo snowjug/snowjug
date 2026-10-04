@@ -202,3 +202,16 @@ const developer = {
 
 </div>
 
+---
+
+## 🕸️ Let's Weave Something Together
+
+<div align="center">
+
+<a href="https://atharvv.me">
+  <img src="https://raw.githubusercontent.com/snowjug/snowjug/main/assets/spider.svg" alt="Animated spider swinging on a web" width="100%" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:64ffda&height=120&section=footer" width="100%" alt="footer wave" />
+
+</div>

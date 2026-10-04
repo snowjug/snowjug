@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="260" viewBox="0 0 800 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#112240"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="800" height="260" rx="16" fill="url(#bg)"/>
+  <!-- web, left corner -->
+  <g stroke="#64ffda" stroke-opacity=".35" fill="none" stroke-width="1">
+    <path d="M0 0 L240 0 M0 0 L0 240 M0 0 L170 170"/>
+    <path d="M60 0 Q50 50 0 60 M120 0 Q100 100 0 120 M180 0 Q150 150 0 180"/>
+  </g>
+  <!-- web, right corner -->
+  <g stroke="#64ffda" stroke-opacity=".35" fill="none" stroke-width="1" transform="translate(800 0) scale(-1 1)">
+    <path d="M0 0 L240 0 M0 0 L0 240 M0 0 L170 170"/>
+    <path d="M60 0 Q50 50 0 60 M120 0 Q100 100 0 120 M180 0 Q150 150 0 180"/>
+  </g>
+  <!-- title -->
+  <text x="400" y="215" text-anchor="middle" font-family="Fira Code, monospace" font-size="20" fill="#64ffda" filter="url(#glow)">$ ./weaving_the_web --keep-building</text>
+  <text x="400" y="242" text-anchor="middle" font-family="Fira Code, monospace" font-size="13" fill="#8892b0">// every connection is a new thread</text>
+  <!-- spider swinging on thread -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="-18 400 0;18 400 0;-18 400 0" dur="4s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" keyTimes="0;.5;1"/>
+    <line x1="400" y1="0" x2="400" y2="110" stroke="#64ffda" stroke-width="1.5"/>
+    <g transform="translate(400 130)" filter="url(#glow)">
+      <g stroke="#ccd6f6" stroke-width="3" fill="none" stroke-linecap="round">
+        <path d="M-8 -4 Q-30 -22 -42 -8 M-9 0 Q-34 -6 -46 10 M-8 5 Q-30 14 -40 30 M-6 9 Q-20 26 -26 40"/>
+        <path d="M8 -4 Q30 -22 42 -8 M9 0 Q34 -6 46 10 M8 5 Q30 14 40 30 M6 9 Q20 26 26 40"/>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 .92;1 1" dur=".6s" repeatCount="indefinite"/>
+      </g>
+      <ellipse cx="0" cy="8" rx="13" ry="16" fill="#233554" stroke="#64ffda" stroke-width="2"/>
+      <circle cx="0" cy="-10" r="9" fill="#233554" stroke="#64ffda" stroke-width="2"/>
+      <circle cx="-3.5" cy="-11" r="2" fill="#ff5555"/><circle cx="3.5" cy="-11" r="2" fill="#ff5555"/>
+    </g>
+  </g>
+  <!-- floating tech dots -->
+  <g fill="#64ffda">
+    <circle cx="150" cy="120" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="260" cy="70" r="2"><animate attributeName="opacity" values="1;.2;1" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="640" cy="110" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="540" cy="60" r="2"><animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
