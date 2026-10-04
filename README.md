@@ -129,6 +129,10 @@ const developer = {
 
 [![Spotify](https://spotify-github-profile.kittinunf.com/api/view?uid=SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false)](https://open.spotify.com/user/SPOTIFY_USER_ID)
 
+<br/>
+
+[![My Playlist](https://img.shields.io/badge/-Listen_to_my_playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/47ZTVVtx3B05Rt2kDhccEO)
+
 </div>
 
 ---
