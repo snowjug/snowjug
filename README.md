@@ -123,11 +123,11 @@ const developer = {
 
 ---
 
-## 🎵 Spotify Playing
+## 🎵 Spotify
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinunf.com/api/view?uid=312lmrjbxjse2tv2znyko2noflfu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false)](https://open.spotify.com/user/312lmrjbxjse2tv2znyko2noflfu)
+[![Spotify Playlist](https://raw.githubusercontent.com/snowjug/snowjug/main/assets/spotify.svg)](https://open.spotify.com/playlist/47ZTVVtx3B05Rt2kDhccEO)
 
 <br/>
 
