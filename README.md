@@ -127,7 +127,7 @@ const developer = {
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinunf.com/api/view?uid=SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false)](https://open.spotify.com/user/SPOTIFY_USER_ID)
+[![Spotify](https://spotify-github-profile.kittinunf.com/api/view?uid=312lmrjbxjse2tv2znyko2noflfu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false)](https://open.spotify.com/user/312lmrjbxjse2tv2znyko2noflfu)
 
 <br/>
 
