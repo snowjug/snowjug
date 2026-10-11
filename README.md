@@ -174,13 +174,12 @@ const developer = {
 
 ---
 
-## 📊 Visitor Count
+## 🚀 Always Growing
 
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/snowjug/snowjug/main/assets/visitor-growth.svg" alt="Animated exponential visitor growth graph" width="640" /><br/>
+<img src="https://raw.githubusercontent.com/snowjug/snowjug/main/assets/visitor-growth.svg" alt="Animated exponential growth graph" width="640" />
 
-![Visitor Count](https://hits.sh/github.com/snowjug/snowjug.svg?style=for-the-badge&label=Profile%20Views&color=64ffda&labelColor=0d1117)
 
 </div>
 
