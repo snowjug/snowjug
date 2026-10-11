@@ -214,6 +214,16 @@ const developer = {
 
 ---
 
+## 🪐 My Tech Universe
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/snowjug/snowjug/main/assets/orbit.svg" alt="Animated orbit of my tech stack" width="100%" />
+
+</div>
+
+---
+
 <div align="center">
   
 ### 🎉 Thanks for visiting! Let's build something amazing together! 🚀
