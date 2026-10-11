@@ -180,7 +180,7 @@ const developer = {
   
 <img src="https://raw.githubusercontent.com/snowjug/snowjug/main/assets/visitor-growth.svg" alt="Animated exponential visitor growth graph" width="640" /><br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=snowjug&label=Profile+Views&color=64ffda&style=for-the-badge)
+![Visitor Count](https://hits.sh/github.com/snowjug/snowjug.svg?style=for-the-badge&label=Profile%20Views&color=64ffda&labelColor=0d1117)
 
 </div>
 
@@ -218,6 +218,6 @@ const developer = {
   
 ### 🎉 Thanks for visiting! Let's build something amazing together! 🚀
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://raw.githubusercontent.com/snowjug/snowjug/main/assets/wave.svg" width="100%" height="120" alt="Animated wave" />
 
 </div>
